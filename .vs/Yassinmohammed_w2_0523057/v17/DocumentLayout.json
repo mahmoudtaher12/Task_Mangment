@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\views\\teammember\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\views\\teammember\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\views\\teammember\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\views\\teammember\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\views\\teammember\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\views\\teammember\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\views\\task\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\views\\task\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\views\\project\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\views\\project\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SIS_SE_MTAHER_SQLEXPRESS/Assisgment_yassin/True/SqlTable/dbo.Tasks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SIS_SE_MTAHER_SQLEXPRESS/Assisgment_yassin/True/SqlTable/dbo.Projects.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SIS_SE_MTAHER_SQLEXPRESS/Assisgment_yassin/True/SqlTable/dbo.TeamMembers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\migrations\\20241230104344_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\migrations\\20241230104344_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\models\\entites\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\models\\entites\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\models\\entites\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\models\\entites\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\models\\viewmodel\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\models\\viewmodel\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\models\\entites\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\models\\entites\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\views\\project\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\views\\project\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Migrations\\20241230072532_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Yassinmohammed_w2_0523057\\Migrations\\20241230072532_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|c:\\users\\mahmoud.taher\\source\\repos\\yassinmohammed_w2_0523057\\yassinmohammed_w2_0523057\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AF557C-4E02-49F5-AAB0-AC302BC7669C}|Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057.csproj|solutionrelative:yassinmohammed_w2_0523057\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:30:20.537Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAA3wD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:03:50.238Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamMemberController.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Controllers\\TeamMemberController.cs",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Controllers\\TeamMemberController.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Controllers\\TeamMemberController.cs",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Controllers\\TeamMemberController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAswDcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:03:27.073Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.TeamMembers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SIS_SE_MTAHER_SQLEXPRESS/Assisgment_yassin/True/SqlTable/dbo.TeamMembers.sql",
+              "ToolTip": "dbo.TeamMembers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T11:15:09.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Projects [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SIS_SE_MTAHER_SQLEXPRESS/Assisgment_yassin/True/SqlTable/dbo.Projects.sql",
+              "ToolTip": "dbo.Projects [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T11:15:06.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Tasks [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SIS_SE_MTAHER_SQLEXPRESS/Assisgment_yassin/True/SqlTable/dbo.Tasks.sql",
+              "ToolTip": "dbo.Tasks [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T11:13:58.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241230104344_first.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Migrations\\20241230104344_first.cs",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Migrations\\20241230104344_first.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Migrations\\20241230104344_first.cs",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Migrations\\20241230104344_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:43:44.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\Task\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Views\\Task\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\Task\\Edit.cshtml",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Views\\Task\\Edit.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAIwEQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:44:28.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\TeamMember\\Details.cshtml",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Views\\TeamMember\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\TeamMember\\Details.cshtml",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Views\\TeamMember\\Details.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:29:55.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\TeamMember\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Views\\TeamMember\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\TeamMember\\Delete.cshtml",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Views\\TeamMember\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:28:55.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\TeamMember\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Views\\TeamMember\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\TeamMember\\Edit.cshtml",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Views\\TeamMember\\Edit.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:27:58.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Models\\ViewModel\\ViewModel.cs",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Models\\ViewModel\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Models\\ViewModel\\ViewModel.cs",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Models\\ViewModel\\ViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA8wBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:32:16.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\Project\\Details.cshtml",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Views\\Project\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\Project\\Details.cshtml",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Views\\Project\\Details.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAIwEQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:40:51.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:37:56.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Models\\Entites\\Tasks.cs",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Models\\Entites\\Tasks.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Models\\Entites\\Tasks.cs",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Models\\Entites\\Tasks.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:50:59.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Projects.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Models\\Entites\\Projects.cs",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Models\\Entites\\Projects.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Models\\Entites\\Projects.cs",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Models\\Entites\\Projects.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:55:52.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\Project\\Create.cshtml",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Views\\Project\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\Project\\Create.cshtml",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Views\\Project\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:39:49.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\Project\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Views\\Project\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\Project\\Edit.cshtml",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Views\\Project\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:40:21.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Views\\Project\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Views\\Project\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:39:05.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\Project\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Views\\Project\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Views\\Project\\Delete.cshtml",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Views\\Project\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:41:45.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241230072532_first.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Migrations\\20241230072532_first.cs",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Migrations\\20241230072532_first.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Migrations\\20241230072532_first.cs",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Migrations\\20241230072532_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:25:32.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Program.cs",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Program.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Program.cs",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:20:37.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwB4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:00:18.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Models\\Entites\\TeamMember.cs",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\Models\\Entites\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\Models\\Entites\\TeamMember.cs",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\Models\\Entites\\TeamMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:57:06.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\appsettings.json",
+              "RelativeDocumentMoniker": "Yassinmohammed_w2_0523057\\appsettings.json",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\Yassinmohammed_w2_0523057\\Yassinmohammed_w2_0523057\\appsettings.json",
+              "RelativeToolTip": "Yassinmohammed_w2_0523057\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T06:45:09.077Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
